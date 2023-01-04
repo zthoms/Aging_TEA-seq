@@ -1,0 +1,17 @@
+﻿Cohort,SubjectID,Sex,Age,CMV
+UP1,PB00124,Female,11,Pos
+UP1,PB00127,Female,11,Neg
+UP1,PB00172,Female,11,Pos
+UP1,PB00173,Female,11,Pos
+UP1,PB00182,Female,11,Neg
+UP1,PB00192,Female,11,Neg
+UP1,PB00197,Female,11,Neg
+UP1,PB00807,Female,11,Pos
+BR2,PB00323,Female,60,Pos
+BR2,PB00334,Female,59,Neg
+BR2,PB00353,Female,56,Neg
+BR2,PB00368,Female,57,Pos
+BR2,PB00377,Female,56,Neg
+BR2,PB00545,Female,55,Neg
+BR2,PB00593,Female,58,Pos
+BR2,PB00599,Female,63,Pos
